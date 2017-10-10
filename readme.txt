@@ -7,4 +7,5 @@ Git modify readme.
 
 怎么搞的，没更新.
 使用GitKraken更新成功了。
+本地更新，未提交到远程。
 
